@@ -29,12 +29,12 @@
 
 <h2>🌟 My favorite repositories:</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabriciobarbosaviegas&repo=luhn-algorithm-in-c-language-with-cs50-library&theme=blueberry&bg_color=hide)](https://github.com/fabriciobarbosaviegas/luhn-algorithm-in-c-language-with-cs50-library)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabriciobarbosaviegas&repo=Sistema-de-anotacoes-simples&theme=blueberry&bg_color=hide)](https://github.com/fabriciobarbosaviegas/Sistema-de-anotacoes-simples)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabriciobarbosaviegas&repo=form-animado&theme=blueberry&bg_color=hide)](https://github.com/fabriciobarbosaviegas/form-animado)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabriciobarbosaviegas&repo=sistema-de-reproducao-de-audios-em-js&theme=blueberry&bg_color=hide)](https://github.com/fabriciobarbosaviegas/sistema-de-reproducao-de-audios-em-js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabriciobarbosaviegas&repo=luhn-algorithm-in-c-language-with-cs50-library&theme=blueberry)](https://github.com/fabriciobarbosaviegas/luhn-algorithm-in-c-language-with-cs50-library)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabriciobarbosaviegas&repo=Sistema-de-anotacoes-simples&theme=blueberry)](https://github.com/fabriciobarbosaviegas/Sistema-de-anotacoes-simples)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabriciobarbosaviegas&repo=form-animado&theme=blueberry)](https://github.com/fabriciobarbosaviegas/form-animado)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabriciobarbosaviegas&repo=sistema-de-reproducao-de-audios-em-js&theme=blueberry)](https://github.com/fabriciobarbosaviegas/sistema-de-reproducao-de-audios-em-js)
 
 <h2>📊 Stats:</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciobarbosaviegas&theme=blueberry&bg_color=hide&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Statistics)](https://github.com/fabriciobarbosaviegas/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciobarbosaviegas&layout=compact&theme=blueberry&bg_color=hide)](https://github.com/fabriciobarbosaviegas/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciobarbosaviegas&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Statistics)](https://github.com/fabriciobarbosaviegas/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciobarbosaviegas&layout=compact&theme=blueberry)](https://github.com/fabriciobarbosaviegas/)
