@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 ![MYSQL](https://img.shields.io/badge/-MySQL-000?&logo=Mysql)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-000?&logo=Wordpress)
+![git](https://img.shields.io/badge/-GIT-000?&logo=git)
 
 <h2>🌟 My favorite repositories:</h2>
 
