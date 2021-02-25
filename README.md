@@ -18,10 +18,18 @@ Here are some ideas to get you started:
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/fabriciobarbosaviegas?tab=repositories&q=&type=&language=python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/fabriciobarbosaviegas?tab=repositories&q=&type=&language=javascript)
-[![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)](https://github.com/fabriciobarbosaviegas?tab=repositories&q=&type=&language=html)
-[![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)](https://github.com/fabriciobarbosaviegas?tab=repositories&q=&type=&language=css)
+[![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5&logoColor=orange)](https://github.com/fabriciobarbosaviegas?tab=repositories&q=&type=&language=html)
+[![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=blue)](https://github.com/fabriciobarbosaviegas?tab=repositories&q=&type=&language=css)
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)](https://github.com/fabriciobarbosaviegas?tab=repositories&q=&type=&language=php)
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/fabriciobarbosaviegas?tab=repositories&q=&type=&language=c)
+
+<h2>⚙️ Technologies<h2>
+
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![MYSQL](https://img.shields.io/badge/-MySQL-000?&logo=Mysql)
+![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB)
+![Wordpress](https://img.shields.io/badge/-Wordpress-000?&logo=Wordpress)
 
 <h2>🌟 My favorite repositories:</h2>
 
