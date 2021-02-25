@@ -3,16 +3,10 @@
 <!--
 **fabriciobarbosaviegas/fabriciobarbosaviegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on personal projects
+- 🌱 I’m currently learning: machine learning
+- 📫 How to reach me for a interview: propostasfabriciobarbosa@gmail.com
+- ✉️ How to reach me of discussion: incy8498@gmail.com
 
 <h2>$ Languages:</h2>
 
@@ -25,12 +19,13 @@ Here are some ideas to get you started:
 
 <h2>⚙️ Technologies<h2>
 
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![MYSQL](https://img.shields.io/badge/-MySQL-000?&logo=Mysql)
-![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB)
-![Wordpress](https://img.shields.io/badge/-Wordpress-000?&logo=Wordpress)
-![git](https://img.shields.io/badge/-GIT-000?&logo=git)
+[![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=green)](https://github.com/fabriciobarbosaviegas/)
+[![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://github.com/fabriciobarbosaviegas/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)](https://github.com/fabriciobarbosaviegas/)
+[![MYSQL](https://img.shields.io/badge/-MySQL-000?&logo=Mysql)](https://github.com/fabriciobarbosaviegas/)
+[![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB)](https://github.com/fabriciobarbosaviegas/)
+[![Wordpress](https://img.shields.io/badge/-Wordpress-000?&logo=Wordpress)](https://github.com/fabriciobarbosaviegas/)
+[![git](https://img.shields.io/badge/-GIT-000?&logo=git)](https://github.com/fabriciobarbosaviegas/)
 
 <h2>🌟 My favorite repositories:</h2>
 
