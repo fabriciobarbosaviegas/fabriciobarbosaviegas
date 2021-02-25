@@ -1,10 +1,7 @@
-### Hi there 
-### My name is Fabricio 👋
+### Hi there! My name is Fabricio 👋
 
 <!--
 **fabriciobarbosaviegas/fabriciobarbosaviegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciobarbosaviegas)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
@@ -17,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciobarbosaviegas&show_icons=true&theme=react&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats)](https://github.com/fabriciobarbosaviegas/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciobarbosaviegas&layout=compact&theme=react)](https://github.com/fabriciobarbosaviegas/)
+
+<h2>My favorite repositories:</h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabriciobarbosaviegas&repo=luhn-algorithm-in-c-language-with-cs50-library&theme=react)](https://github.com/anuraghazra/github-readme-stats)
