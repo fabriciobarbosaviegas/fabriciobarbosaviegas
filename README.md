@@ -14,9 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciobarbosaviegas&show_icons=true&theme=react&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats)](https://github.com/fabriciobarbosaviegas/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciobarbosaviegas&layout=compact&theme=react)](https://github.com/fabriciobarbosaviegas/)
+
 
 <h2>My favorite repositories:</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabriciobarbosaviegas&repo=luhn-algorithm-in-c-language-with-cs50-library&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabriciobarbosaviegas&repo=luhn-algorithm-in-c-language-with-cs50-library&theme=react)](https://github.com/fabriciobarbosaviegas/luhn-algorithm-in-c-language-with-cs50-library)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabriciobarbosaviegas&repo=Sistema-de-anotacoes-simples&theme=react)](https://github.com/fabriciobarbosaviegas/Sistema-de-anotacoes-simples)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabriciobarbosaviegas&repo=form-animado&theme=react)](https://github.com/fabriciobarbosaviegas/form-animado)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabriciobarbosaviegas&repo=sistema-de-reproducao-de-audios-em-js&theme=react)](https://github.com/fabriciobarbosaviegas/sistema-de-reproducao-de-audios-em-js)
+
+<h2>Stats:</h2>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciobarbosaviegas&show_icons=true&theme=react&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats)](https://github.com/fabriciobarbosaviegas/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciobarbosaviegas&layout=compact&theme=react)](https://github.com/fabriciobarbosaviegas/)
