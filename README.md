@@ -29,7 +29,7 @@
 
 <h2>🌟 My favorite repositories:</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabriciobarbosaviegas&repo=luhn-algorithm-in-c-language-with-cs50-library&theme=blueberry)](https://github.com/fabriciobarbosaviegas/luhn-algorithm-in-c-language-with-cs50-library)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabriciobarbosaviegas&repo=curriculum-vitae&theme=blueberry)](https://github.com/fabriciobarbosaviegas/luhn-algorithm-in-c-language-with-cs50-library)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabriciobarbosaviegas&repo=Sistema-de-anotacoes-simples&theme=blueberry)](https://github.com/fabriciobarbosaviegas/Sistema-de-anotacoes-simples)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabriciobarbosaviegas&repo=form-animado&theme=blueberry)](https://github.com/fabriciobarbosaviegas/form-animado)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabriciobarbosaviegas&repo=sistema-de-reproducao-de-audios-em-js&theme=blueberry)](https://github.com/fabriciobarbosaviegas/sistema-de-reproducao-de-audios-em-js)
