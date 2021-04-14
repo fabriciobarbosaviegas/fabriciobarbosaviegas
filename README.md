@@ -14,7 +14,6 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/fabriciobarbosaviegas?tab=repositories&q=&type=&language=javascript)
 [![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5&logoColor=orange)](https://github.com/fabriciobarbosaviegas?tab=repositories&q=&type=&language=html)
 [![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=blue)](https://github.com/fabriciobarbosaviegas?tab=repositories&q=&type=&language=css)
-[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)](https://github.com/fabriciobarbosaviegas?tab=repositories&q=&type=&language=php)
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/fabriciobarbosaviegas?tab=repositories&q=&type=&language=c)
 
 <h2>⚙️ Technologies<h2>
