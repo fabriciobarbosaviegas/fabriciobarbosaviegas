@@ -3,8 +3,6 @@
 <!--
 **fabriciobarbosaviegas/fabriciobarbosaviegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🌐 My [website](https://www.fabriciobarbosaviegas.github.io)
-
 - 🔭 I’m currently working on the news portal [Blog do Juares](blogdojuares.com.br)
 - 📫 How to reach me for a interview: propostasfabriciobarbosa@gmail.com
 - ✉️ How to reach me of discussion: incy8498@gmail.com
