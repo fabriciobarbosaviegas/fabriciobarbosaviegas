@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on the news portal [Blog do Juares](https://blogdojuares.com.br)
 - 📫 How to reach me for a interview: propostasfabriciobarbosa@gmail.com
 - ✉️ How to reach me of discussion: incy8498@gmail.com
+- 📖 Portfolio: https://fabriciobarbosaviegas.github.io
 
 <h2>$ Languages:</h2>
 
