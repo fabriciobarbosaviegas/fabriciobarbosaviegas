@@ -39,4 +39,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciobarbosaviegas&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Statistics)](https://github.com/fabriciobarbosaviegas/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciobarbosaviegas&layout=compact&theme=blueberry)](https://github.com/fabriciobarbosaviegas/)
 
- ![Snake animation](https://github.com/fabriciobarbosaviegas/fabriciobarbosaviegas/blob/main/github-user-contribution.svg)
+ ![Snake animation](https://github.com/fabriciobarbosaviegas/fabriciobarbosaviegas/blob/output/github-contribution-grid-snake.svg)
