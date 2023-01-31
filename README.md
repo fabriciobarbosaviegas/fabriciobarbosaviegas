@@ -29,7 +29,7 @@
 
 <h2>🌟 My favorite repositories:</h2>
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabriciobarbosaviegas&repo=one-project&theme=blueberry)](https://github.com/fabriciobarbosaviegas/Sistema-de-anotacoes-simples)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabriciobarbosaviegas&repo=one-project&theme=blueberry)](https://github.com/fabriciobarbosaviegas/one-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabriciobarbosaviegas&repo=fabriciobarbosaviegas.github.io&theme=blueberry)](https://github.com/fabriciobarbosaviegas/fabriciobarbosaviegas.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabriciobarbosaviegas&repo=form-animado&theme=blueberry)](https://github.com/fabriciobarbosaviegas/form-animado)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabriciobarbosaviegas&repo=sistema-de-reproducao-de-audios-em-js&theme=blueberry)](https://github.com/fabriciobarbosaviegas/sistema-de-reproducao-de-audios-em-js)
